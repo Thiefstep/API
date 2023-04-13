@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Annie",
+    "role": "Marksman",
+    "id": 1
+  },
+  {
+    "name": "Ashe",
+    "role": "Marksman",
+    "id": 2
+  },
+  {
+    "name": "Jax",
+    "role": "Fighter",
+    "id": 3
+  }
+]
